@@ -1,6 +1,6 @@
 name: unique_id
 description: A new Flutter plugin for getting unique id based on device
-version: 0.0.1
+version: 0.0.2
 author: Lakhwinder Singh <lakhwinder.singh@debutinfotech.com>
 homepage: https://github.com/debutdeveloper/unique_id
 
